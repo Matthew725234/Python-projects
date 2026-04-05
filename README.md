@@ -13,9 +13,9 @@ A high-performance implementation of Dijkstra's algorithm to find the shortest p
 * **Visualization:** Generates clear graph plots using `NetworkX` and `Matplotlib`.
 * **Notebook:** [Open dijkstra.ipynb on Colab](https://colab.research.google.com/github/Matthew725234/Python-projects/blob/main/dijkstra.ipynb)
 
-### 2. 🧬 Longest Common Subsequence (LCS) (COMING SOON)
+### 2. 🧬 Longest Common Subsequence (LCS)
 A robust solution to the LCS problem using **Dynamic Programming**.
-* **Method:** Iterative bottom-up approach with a memoization matrix.
+* **Method:** Recursive top-down approach with a memoization matrix.
 * **Backtracking:** Includes the reconstruction logic to extract the actual string sequence.
 * **Efficiency:** $O(m \times n)$ time and space complexity.
 
