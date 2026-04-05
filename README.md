@@ -18,6 +18,8 @@ A robust solution to the LCS problem using **Dynamic Programming**.
 * **Method:** Recursive top-down approach with a memoization matrix.
 * **Backtracking:** Includes the reconstruction logic to extract the actual string sequence.
 * **Efficiency:** $O(m \times n)$ time and space complexity.
+* **Notebook:** [Open LCS.ipynb on Colab](https://colab.research.google.com/github/Matthew725234/Python-projects/blob/main/LCS.ipynb)
+
 
 ---
 
